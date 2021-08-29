@@ -5,4 +5,7 @@ API link: freetogame.com/api-doc
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/71573558/131264666-57cbbd61-3bb9-474b-8b54-63612f4ba623.png"/>
+  <img src="https://user-images.githubusercontent.com/71573558/131264667-f8ad404d-0fd8-4340-ba65-153c77c223c9.png"/>
+  <img src="https://user-images.githubusercontent.com/71573558/131264668-c44a1ea2-fd45-4f20-9f94-34e977bda724.png"/>
+  <img src="https://user-images.githubusercontent.com/71573558/131264669-f7830df2-710a-4aa3-a9b3-98b957376a6f.png"/>
 </div>
