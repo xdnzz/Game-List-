@@ -1,0 +1,52 @@
+
+.conteudo-pai {
+   margin-left: 10%;
+  
+}
+
+.div-card {
+
+border: 1px solid rgb(185, 180, 180);
+margin: 2px;
+border-radius: 10px;
+
+}
+
+
+.container {
+    display: flex;
+    text-align: center;
+    align-content: center;
+   
+}
+
+.card {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card img {
+    width: 250px;
+    height: auto;
+    display: flex;
+    margin: 0 auto;
+}
+
+p {
+    width: 300px;
+}
+
+.saiba-mais {
+   margin-bottom: 30px;
+   
+}
+
+.saiba-mais-link {
+    text-decoration: none;
+    padding: 10px;
+    color: #FFF;
+    background-color: rgb(75, 73, 73);
+    border-radius: 6px;
+
+}
+

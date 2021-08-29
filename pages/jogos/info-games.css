@@ -1,0 +1,46 @@
+.loading {
+    text-align: center;
+}
+
+.container-jogos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+     max-width: 500px;
+}
+
+.container-jogos img {
+    border-radius: 20px;
+}
+
+.container-jogos button {
+    margin-right: 5px;
+    margin-top: 15px;
+    cursor: pointer;
+    border:0;
+    font-size: 20px;
+    outline: none;
+    padding: 11px;
+    border-radius: 5px;
+    transition: all 0.5s;
+}
+
+.container-jogos button:hover {
+    background-color: brown;
+    color: white;
+}
+
+.container-jogos a {
+    text-decoration: none;
+    color: black;
+}
+
+.container-jogos a:hover {
+    color: white;
+}
+
+.container-jogos p {
+    margin: 0 auto;
+}

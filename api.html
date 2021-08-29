@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        .aguarde {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            height: 400px;
+            background: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="aguarde">
+
+        <h1>Nome do carro</h1>
+        <h3>Aguarde...</h3>
+
+    </div>
+</body>
+</html>
+
+<script>
+	jQuery(function($){
+	
+		setInterval(function() {
+			var th = $('.aguarde');
+			if(th.text().length < 10){
+				th.text(th.text()+".");
+			}
+			else{
+				th.text("Aguarde");
+			}
+		}, 500);
+		
+	});
+</script>
+<script>
+        setTimeout(function() {
+            window.location.href = "";
+        }, 2000);
+</script>

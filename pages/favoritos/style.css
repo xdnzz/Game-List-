@@ -1,0 +1,40 @@
+.meus-jogos {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+    padding: 0;
+}
+
+ul li {
+    padding: 0;
+    list-style: none;
+    width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+span {
+    font-size: 25px;
+}
+
+button {
+    margin-left: 10px ;
+}
+
+.links {
+    text-decoration: none;
+    color: red;
+}
+
+.img-img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+}

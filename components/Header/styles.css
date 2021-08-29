@@ -1,0 +1,28 @@
+.header-estilo {
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    flex-wrap: wrap;
+    background-color: rgb(233, 232, 232);
+    margin-bottom: 20px;
+   
+    
+}
+
+.header-estilo .links {
+text-decoration: none;
+margin: 30px;
+color: black;
+padding: 5px;
+border-radius: 10px;
+transition: ease;
+}
+
+.header-estilo .links:hover {
+    background-color: rgb(116, 102, 102) ;
+    color: #fff;
+}
+
+.saiba-mais {
+    text-decoration: none;
+}
